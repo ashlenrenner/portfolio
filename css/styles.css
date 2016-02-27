@@ -1,0 +1,83 @@
+.circle{
+max-height: 200px;
+/*padding: 10px;*/
+/*margin: 5%;*/
+}
+.title{
+text-align: center;
+}
+.profilePic{
+  max-width: 400px;
+}
+.clip-circle {
+  background:url(https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg) no-repeat;
+  background-size:720px 480px;
+  background-position:-260px -160px;
+  height:200px;
+  width:200px;
+  border-radius:50%;
+  overflow:hidden;
+  margin:auto;
+}
+.sect{
+  margin-bottom: 10%;
+  margin-top: 5%;
+}
+
+/*about page*/
+.clip-circle2 {
+  background:url(../img/profilepic.jpg) no-repeat;
+  background-size:720px 480px;
+  background-position: -150px -70px;
+  height:300px;;
+  width:300px;
+  border-radius:50%;
+  overflow:hidden;
+  margin-left: 35%;
+  margin-top: 10px;
+  margin-bottom: 20px;
+
+}
+/* Portrait and Landscape */
+@media only screen
+  and (min-device-width: 375px)
+  and (max-device-width: 667px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .clip-circle2 {
+      background:url(../img/profilepic.jpg) no-repeat;
+      background-size:720px 480px;
+      background-position: -150px -70px;
+      height:300px;;
+      width:300px;
+      border-radius:50%;
+      overflow:hidden;
+      margin-left: 10px;
+
+    }
+}
+
+.resumeBtn{
+  text-align: center;
+}
+
+/*mosaic*/
+.paper-section{
+  margin: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.clearfix{
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+	.details{
+    margin:15px 20px;
+  }
+  /*.caption{
+    color: white;
+  }*/
+  .impact{
+    max-height: 300px;
+  }
