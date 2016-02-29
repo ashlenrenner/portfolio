@@ -9,10 +9,30 @@ text-align: center;
 .profilePic{
   max-width: 400px;
 }
-.clip-circle {
-  background:url(https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg) no-repeat;
+.clip-circle-a {
+  background:url(../img/donut.jpg) no-repeat;
+  background-size:720px 480px;
+  background-position:-110px -50px;
+  height:200px;
+  width:200px;
+  border-radius:50%;
+  overflow:hidden;
+  margin:auto;
+}
+.clip-circle-b {
+  background:url(../img/sig.jpg) no-repeat;
   background-size:720px 480px;
   background-position:-260px -160px;
+  height:200px;
+  width:200px;
+  border-radius:50%;
+  overflow:hidden;
+  margin:auto;
+}
+.clip-circle-c {
+  background:url(../img/ensemble.jpg) no-repeat;
+  background-size:720px 480px;
+  background-position:-220px -100px;
   height:200px;
   width:200px;
   border-radius:50%;
