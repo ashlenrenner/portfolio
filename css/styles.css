@@ -10,9 +10,9 @@ text-align: center;
   max-width: 400px;
 }
 .clip-circle-a {
-  background:url(../img/donut.jpg) no-repeat;
+  background:url(../img/pencil.jpg) no-repeat;
   background-size:720px 480px;
-  background-position:-110px -50px;
+  background-position:-240px -170px;
   height:200px;
   width:200px;
   border-radius:50%;
