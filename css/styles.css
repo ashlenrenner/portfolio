@@ -10,7 +10,7 @@ text-align: center;
   max-width: 400px;
 }
 .clip-circle-a {
-  background:url(../img/pencil.jpg) no-repeat;
+  background:url("http://oi63.tinypic.com/muvfxf.jpg") no-repeat;
   background-size:720px 480px;
   background-position:-240px -170px;
   height:200px;
@@ -20,7 +20,7 @@ text-align: center;
   margin:auto;
 }
 .clip-circle-b {
-  background:url(../img/sig.jpg) no-repeat;
+  background:url("http://i64.tinypic.com/169p4qg.jpg") no-repeat;
   background-size:720px 480px;
   background-position:-260px -160px;
   height:200px;
@@ -30,7 +30,7 @@ text-align: center;
   margin:auto;
 }
 .clip-circle-c {
-  background:url(../img/ensemble.jpg) no-repeat;
+  background:url("http://i68.tinypic.com/35ioegk.jpg") no-repeat;
   background-size:720px 480px;
   background-position:-220px -100px;
   height:200px;
@@ -49,7 +49,7 @@ text-align: center;
 
 /*about page*/
 .clip-circle2 {
-  background:url(../img/profilepic.jpg) no-repeat;
+  background:url("http://i66.tinypic.com/2jez9fp.jpg") no-repeat;
   background-size:720px 480px;
   background-position: -150px -70px;
   height:300px;;
@@ -67,7 +67,7 @@ text-align: center;
   and (max-device-width: 667px)
   and (-webkit-min-device-pixel-ratio: 2) {
     .clip-circle2 {
-      background:url(../img/profilepic.jpg) no-repeat;
+      background:url("http://i66.tinypic.com/2jez9fp.jpg") no-repeat;
       background-size:720px 480px;
       background-position: -150px -70px;
       height:300px;;
